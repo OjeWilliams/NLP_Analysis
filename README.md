@@ -48,8 +48,11 @@ By leveraging all three proposed research questions, we can help audiences who h
 
 #### Assets
 [Data](https://github.com/OjeWilliams/NLP_Analysis/tree/main/data)
+
 [Notebooks](https://github.com/OjeWilliams/NLP_Analysis/tree/main/notebooks)
+
 [Presentations](https://github.com/OjeWilliams/NLP_Analysis/tree/main/Presentations)
+<br/>
 
 
 **Group Information**	
