@@ -47,9 +47,11 @@ Many ask, “who is the better queen, Cersei, or Daenerys?” The main premise o
 By leveraging all three proposed research questions, we can help audiences who have watched Game of Thrones gain deeper insights of the story and each main character. For those who have not watched any of the seasons, this will act as a beginner’s guide to Game of Thrones.
 
 #### Assets
-[Data]()
-[Notebooks]()
-[Presentations]()
+[Data](https://github.com/OjeWilliams/NLP_Analysis/tree/main/data)
+
+[Notebooks](https://github.com/OjeWilliams/NLP_Analysis/tree/main/notebooks)
+
+[Presentations](https://github.com/OjeWilliams/NLP_Analysis/tree/main/Presentations)
 
 
 
