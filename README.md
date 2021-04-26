@@ -54,9 +54,9 @@ By leveraging all three proposed research questions, we can help audiences who h
 
 
 **Group Information**	
-Wei Chi Yeh	
-Oje Williams	
-Jack Yang	
-Yichuan Hu	
-Sanket Patel	
-Jingnan Qi
+- Wei Chi Yeh	
+- Oje Williams	
+- Jack Yang	
+- Yichuan Hu	
+- Sanket Patel	
+- Jingnan Qi
