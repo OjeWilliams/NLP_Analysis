@@ -9,7 +9,7 @@ A complete set of GOT for all seasons in form of a table containing 6 columns wi
 #### Data Source:
 https://www.kaggle.com/albenft/game-of-thrones-script-all-seasons
 
-####Dataset Overview
+#### Dataset Overview
 
 ●	Release Date: Original air date of the episode.
 ●	Season: Season number.
@@ -25,14 +25,14 @@ https://www.kaggle.com/albenft/game-of-thrones-script-all-seasons
 ●	Normalization: normalize the text to lowercase to ignore the case distinction
 ●	Stemming/lemmatization: try different stemmers to strip off any affixes; use lemmatizer to make sure the resulting form is a known word in a dictionary and get a list of valid lemmas
 
-####Text Analysis
+#### Text Analysis
 
 When it comes to Natural Language Processing and analyzing text there are many methods that can prove very useful for us in extracting valuable information. Primarily with the GOT script, it would be useful for us to conduct Sentiment Analysis combined with Aspect Mining via NLTK and spaCy packages. But before we can get to those methods, it might be helpful to first start with Named Entity Recognition (NER). NER allows us to obtain from the text the possible objects with the text i.e dates, people, locations, etc. It will allow us to quickly extract these entities giving us semantic knowledge from the script such as who are the persons as well as what are the places or dates and times mentioned in each dialogue.
 
 Once NER is complete, we can then move on to Sentiment Analysis paired with Aspect mining. Sentiment analysis seeks to determine how the text is expressed in terms of being negative, neutral, or positive. In this sense, we can search the text and identify how each character’s sentiment changed from line to line or episode to episode. Aspect mining attempts to identify the different features or common concerns in a text. An example of aspect mining is using the part of speech tagger (POS) on the text. Ideally combining sentiment analysis and aspect mining will allow us to gain insight on different topics/concerns in the script and determine whether each major topic/concern had a negative, neutral or positive sentiment attached to it.
 
 
-####Research Questions
+#### Research Questions
 
 ●	How does the sentiment of the main characters change with time? – Sentiment Analysis
 ●	What are the most used words in each important family? – Stemming, FreqDist
