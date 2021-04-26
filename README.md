@@ -51,7 +51,7 @@ By leveraging all three proposed research questions, we can help audiences who h
 [Notebooks](https://github.com/OjeWilliams/NLP_Analysis/tree/main/notebooks)
 [Presentations](https://github.com/OjeWilliams/NLP_Analysis/tree/main/Presentations)
 
-<br/>
+
 **Group Information**	
 - Wei Chi Yeh	
 - Oje Williams	
