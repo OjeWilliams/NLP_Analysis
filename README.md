@@ -55,7 +55,7 @@ By leveraging all three proposed research questions, we can help audiences who h
 <br/>
 
 
-**Group Information**	
+**Group members**	
 - Wei Chi Yeh	
 - Oje Williams	
 - Jack Yang	
